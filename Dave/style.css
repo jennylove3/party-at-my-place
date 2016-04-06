@@ -1,0 +1,33 @@
+.jumbotron {
+  height: 700px;
+  padding-top: 200px;
+  opacity: 0.85;
+}
+.navbar-brand {
+  font-size: 50px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+  h2 {
+    font-family: 'Julius Sans One', sans-serif;
+  }
+#meet-your-match h2 {
+  font-family: 'Work Sans', sans-serif;
+
+}
+.navbar {
+  height: 60px;
+  padding-top: 5px;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+.btn-default {
+  background-color: rgb(169, 40, 190);
+  color: #fff;
+
+}
+.btn-default a:hover {
+  background-color: rgb(242, 189, 246)!important
+}
